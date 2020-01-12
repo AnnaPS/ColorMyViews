@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_wide_16dp">16dp</dimen>
+    <dimen name="margin_half_8dp">8dp</dimen>
+    <dimen name="box_text_size_24sp">24sp</dimen>
+    <dimen name="button_text_size_16sp">16sp</dimen>
+</resources>
